@@ -1,5 +1,7 @@
 import localFont from "next/font/local";
-import "./globals.css";
+import "./app.css"; // Any additional global styles
+import "./globals.css"; // Default global styles
+import "./index.css"; // Your custom global styles
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
