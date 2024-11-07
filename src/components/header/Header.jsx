@@ -27,8 +27,8 @@ const Header = () => {
             src="/people.png"
             alt="people"
             layout="responsive"
-            width={600}
-            height={400}
+            width={182}
+            height={39}
           />
           <p>1,600 people requested access a visit in last 24 hours</p>
         </div>
