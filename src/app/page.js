@@ -1,14 +1,14 @@
 "use client";
 import { useEffect, useState } from "react";
 import Blog from "../components/blog/Blog";
-import Brand from "../components/Brand/Brand";
-import CTA from "../components/CTA/CTA";
+import Brand from "../components/brand/Brand";
+import CTA from "../components/cTA/CTA";
 import Features from "../components/features/Features";
 import Footer from "../components/footer/Footer";
 import Header from "../components/header/Header";
 import Navbar from "../components/navbar/Navbar";
-import Possibility from "../components/Possibility/possibility";
-import WhatGPT3 from "../components/WhatGPT3/whatGPT3";
+import Possibility from "../components/Possibility/Possibility";
+import WhatGPT3 from "../components/whatGPT3/WhatGPT3";
 
 // Heavy computation task
 function heavyComputationTask(iterations) {
