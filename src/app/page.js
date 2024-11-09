@@ -2,7 +2,7 @@
 import { useEffect, useState } from "react";
 import Blog from "../components/blog/Blog";
 import Brand from "../components/brand/Brand";
-import CTA from "../components/cTA/CTA";
+import CTA from "../components/cta/CTA";
 import Features from "../components/features/Features";
 import Footer from "../components/footer/Footer";
 import Header from "../components/header/Header";
